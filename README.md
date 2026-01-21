@@ -42,16 +42,16 @@ DC-Motor-control-using-Reinforcement-Learning---DDPG/
 
 ## How to Run
 
-### Open the Simulink Model
+### Open the .m file
 
 ```matlab
-open_system('motorsim')
+Run motorcodelast.m
 ```
 ## Training the Agent
 
 - Set the RL Agent block to **training mode**
 - Ensure no pre-trained agent is loaded
-- Run the training script from the `motorcodelast` folder
+- Run the training script from the `motorcodelast` file
 
 ## Simulation Using a Trained Agent
 
@@ -95,4 +95,4 @@ Reinforcement Learning and Control Systems
 
 ## License
 
-Provided for academic and learning purposes. A license file may be added before public release.
+Provided for academic and learning purposes.
