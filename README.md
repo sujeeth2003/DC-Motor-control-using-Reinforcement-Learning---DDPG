@@ -84,7 +84,7 @@ Run motorcodelast.m
 The reinforcement learning agent was deployed on a real-world tank level control system. The agent controlled a pneumatic valve, received tank height feedback through NI DAQ hardware, and successfully regulated the tank level in real time. This demonstrates effective simulation-to-real transfer.
 
 ## Contributors
-- Madhav Srinath – [GitHub Profile](https://github.com/MadhavSrinath22)
+- Madhav Srinath
 - Vivek Balamurugan
 
 ## Author
